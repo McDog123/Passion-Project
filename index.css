@@ -1,0 +1,19 @@
+p,li {
+    font-size: 21px;
+  }
+  
+p {
+    width: 800px;
+  }
+  
+body {
+    background-image: url("vector-dog-seamless-pattern-theme-bone-paw-foot-print-for-use-as-wallpaper-or-background.jpeg");
+    background-repeat: repeat;
+  }
+.box {
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    background-color: coral;
+    display: inline;
+}
